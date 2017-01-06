@@ -1,0 +1,7 @@
+marketId: 1.127936506, SelectionId: 58805, backPrice: 1.25,layPrice: 1.67, homeTeam: Central Cordoba, awayTeam: AD Berazategui, time: 2016/10/29 21:11:22
+marketId: 1.127791873, SelectionId: 58805, backPrice: 1.49,layPrice: 1.51, homeTeam: NK Aluminij, awayTeam: NK Maribor, time: 2016/10/30 14:36:11
+marketId: 1.127901283, SelectionId: 58805, backPrice: 1.31,layPrice: 1.37, homeTeam: Gorodeya, awayTeam: Isloch, time: 2016/10/30 14:42:27
+marketId: 1.127687933, SelectionId: 58805, backPrice: 1.64,layPrice: 1.65, homeTeam: Empoli, awayTeam: Roma, time: 2016/10/30 15:39:36
+marketId: 1.127792979, SelectionId: 58805, backPrice: 1.32,layPrice: 1.36, homeTeam: FK Jablonec, awayTeam: Slavia Prague, time: 2016/10/30 15:41:42
+marketId: 1.127798791, SelectionId: 58805, backPrice: 1.22,layPrice: 1.23, homeTeam: Veria, awayTeam: Platanias, time: 2016/10/30 16:52:11
+marketId: 1.127798556, SelectionId: 58805, backPrice: 1.57,layPrice: 1.62, homeTeam: ADO Den Haag, awayTeam: Az Alkmaar, time: 2016/10/30 17:19:27

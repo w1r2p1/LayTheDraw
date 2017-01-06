@@ -1,0 +1,10 @@
+marketId: 1.127864055, SelectionId: 58805, backPrice: 3.65,layPrice: 4.5, homeTeam: Celaya, awayTeam: UAEM Potros, time: 2016/10/30 01:27:36
+marketId: 1.127790961, SelectionId: 58805, backPrice: 4.4,layPrice: 5.2, homeTeam: Minnesota Utd, awayTeam: New York Cosmos, time: 2016/10/30 01:27:36
+marketId: 1.127971206, SelectionId: 58805, backPrice: 2.6,layPrice: 4.3, homeTeam: Naftovik-Ukrnafta, awayTeam: FK Ternopil, time: 2016/10/30 14:08:44
+marketId: 1.127955032, SelectionId: 58805, backPrice: 3.15,layPrice: 4.4, homeTeam: Selangor, awayTeam: Kedah, time: 2016/10/30 14:28:19
+marketId: 1.127688190, SelectionId: 58805, backPrice: 3.3,layPrice: 3.35, homeTeam: AC Milan, awayTeam: Pescara, time: 2016/10/30 14:51:37
+marketId: 1.127866278, SelectionId: 58805, backPrice: 3.9,layPrice: 11.0, homeTeam: Fakel, awayTeam: Zenit St Petersburg II, time: 2016/10/30 15:18:44
+marketId: 1.127792215, SelectionId: 58805, backPrice: 2.0,layPrice: 2.14, homeTeam: Aarau, awayTeam: Winterthur, time: 2016/10/30 15:23:22
+marketId: 1.127795417, SelectionId: 58805, backPrice: 4.0,layPrice: 4.6, homeTeam: Austria Vienna, awayTeam: Sturm Graz, time: 2016/10/30 16:37:08
+marketId: 1.127798556, SelectionId: 58805, backPrice: 1.24,layPrice: 1.25, homeTeam: ADO Den Haag, awayTeam: Az Alkmaar, time: 2016/10/30 17:29:26
+marketId: 1.127796331, SelectionId: 58805, backPrice: 3.55,layPrice: 1000, homeTeam: Arka Gdynia, awayTeam: Lechia Gdansk, time: 2016/10/30 17:32:07
